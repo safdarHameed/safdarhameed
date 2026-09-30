@@ -6,7 +6,7 @@
 <h3 align="center">Software Engineer | Cloud & DevOps | AI Engineering</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-safdar-awan-17017a244/" target="_blank">
+  <a href="https://www.linkedin.com/in/safdar-hameed-17017a244/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://safdarhameed.vercel.app" target="_blank">
